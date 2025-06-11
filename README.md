@@ -1,48 +1,69 @@
-# 👋 Hi, I'm Robin Robert (Tixtor710)!
+# 👋 Hey there, I'm Robin Robert (aka Tixtor710)!
 
-Welcome to my GitHub profile!  
-I'm a passionate Computer Vision and AI Enthusiast, currently pursuing my B.Tech (Hons.) in Computer Science with a specialization in Artificial Intelligence and Machine Learning at Manipal University.
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-**Manipal University**  
-_Bachelor of Technology in Computer Science (AI & ML) - Hons._  
-Jaipur, Rajasthan  
-_Expected Graduation: October 2025_
 
-- Relevant Coursework: Software Engineering, Coding Frameworks and Languages
+- 🤖 I build smart systems that see, understand, and create—blending deep learning, computer vision, and automation.
+- 📍 Based in India | Open to global collaborations!
 
 ---
 
-## 💼 Experience
+## 🏆 What Drives Me
 
-**Palm Tree Info Tech**  
-_Computer Vision / Deep Learning Intern_  
-_Feb 2025 – Present | Chennai, India_
-- Trained YOLOv11n models (Roboflow-labeled data) for cat breeds, football players, and ISL gesture detection.
-- Integrated DeepSORT and ReID for multi-object tracking in sports analytics (<200ms latency).
-- Debugged YOLO models across ONNX, OpenVINO, TensorRT; resolved opset/shape mismatches via Netron.
-- Built modular, CLI-driven Python pipelines using Typer for real-time video inference and result logging.
-- Developed HSV-mask segmentation tools for jersey feature extraction and player analytics.
-
-_Computer Vision Intern_  
-_Jun 2023 – Jul 2023 | Chennai, India_
-- Optimized image-based search for video platforms (YouTube, Vimeo) using Python & OpenCV.
-- Used Docker for containerized, real-time data processing pipelines for multimedia search.
-
-**Tata Consultancy Services Cybersecurity Simulation**  
-_IAM Security Analyst (Virtual)_
-- Simulated IAM tasks and delivered strategic documentation aligning IAM solutions with business goals.
+I thrive on crafting solutions that make technology more accessible and interactive. Whether it’s teaching computers to recognize sign language or generating creative social content at scale, I love projects that have both technical depth and positive impact.
 
 ---
 
-## 🚀 Projects
+## 💼 Experience Highlights
+
+### Palm Tree Info Tech
+- **Computer Vision / Deep Learning Intern** (2025–Present)
+  - Training YOLOv11n models for sports analytics, cat breed detection, and Indian Sign Language (ISL) gesture recognition.
+  - Engineered real-time multi-object tracking (<200ms latency) with DeepSORT/ReID and custom segmentation.
+  - Built robust, CLI-driven Python pipelines for video inference and analytics.
+
+---
+
+## 🚩 Featured Projects
 
 - **AI-Powered TikTok-Style Video Generator**  
-  _Streamlit, Gemini API, GPT, Python, ffmpeg, gTTS, SQLite_  
-  → Automated TikTok-style video generation with TTS, script generation, overlays, and batch processing.  
-  → Reduced content creation effort by 80%, 40% faster video creation.
+  _Python, Streamlit, Gemini API, FFmpeg_  
+  → Instantly generates creative TikTok-style videos from text using cutting-edge AI.  
+  → Batch processing, fast script generation, and effortless overlays—reduced manual work by 80%!
 
-- **Real-Time Indian Sign Language (ISL) Prediction
+- **Real-Time Indian Sign Language (ISL) Prediction**  
+  _PyTorch, OpenCV, ONNX_  
+  → Achieved 92% test accuracy on 10,000+ gestures, sub-200ms detection, ONNX-optimized for real-time deployment.
+
+- **Mini Python Projects Collection**  
+  _Python, Tkinter, Pygame_  
+  → 20+ games/utilities: hands-on problem-solving, fun GUIs, and algorithmic puzzles.
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages:** Python, JavaScript, HTML/CSS, SQL, Bash  
+**Frameworks/Tools:** PyTorch, TensorFlow, OpenCV, FFmpeg, ONNX, Streamlit, Docker, Git, Typer, Netron  
+**Core Skills:**  
+- Object Detection (YOLOv11), Multi-object Tracking, CNNs, Transfer Learning  
+- Model Optimization, Real-Time Inference, REST APIs, Agile Workflows
+
+---
+
+## 🌐 Let’s Connect!
+
+- [GitHub](https://github.com/Tixtor710)
+- [LinkedIn](https://linkedin.com/robin-robertt)
+- 📧 robinrobert20038@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+Thanks for dropping by! If you’re into AI, computer vision, or creative coding—let’s connect or collaborate 🚀
